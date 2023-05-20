@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rioriyas
-- 👀 I’m interested in Web Development and Ethical Hacking.
-- 🌱 I’m currently learning Bug Bounty
+- 👀 I’m interested in Full Stack Development and Ethical Hacking.
+- 🌱 I’m currently learning Full Stack Dot net and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rio29548@gmail.com
 
